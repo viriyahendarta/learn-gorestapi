@@ -1,0 +1,16 @@
+{
+    "debug": true,
+    "server": {
+        "port": "9090"
+    },
+    "context": {
+        "timeout": 2
+    },
+    "database": {
+        "host": "ec2-54-225-92-1.compute-1.amazonaws.com",
+        "port": "5432",
+        "user": "ocvxnptwimuicz",
+        "password": "52983aa85015a0851f5d2dd88b23a850f6dfa823f20c0cfd0ffac80cc5ce3b48",
+        "name": "d93m1gvuu8amsj"
+    }
+}
